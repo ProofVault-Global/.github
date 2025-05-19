@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./logo.png" alt="ProofVault.Global Logo" width="150">
+  <img src="../assets/logo.png" alt="ProofVault.Global Logo" width="150">
 </p>
 
 <h1 align="center">🛡️ ProofVault.Global 🛡️</h1>
